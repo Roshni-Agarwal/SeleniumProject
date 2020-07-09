@@ -1,0 +1,29 @@
+[INFO ] 2020-06-30 01:11:15.616 [main] Log4jDemo - This is information message
+[ERROR] 2020-06-30 01:11:15.621 [main] Log4jDemo - This is an error message
+[WARN ] 2020-06-30 01:11:15.622 [main] Log4jDemo - This is a warning message
+[FATAL] 2020-06-30 01:11:15.622 [main] Log4jDemo - This is a fatal message
+[INFO ] 2020-06-30 01:12:10.869 [main] Log4jDemo - This is information message
+[ERROR] 2020-06-30 01:12:10.870 [main] Log4jDemo - This is an error message
+[WARN ] 2020-06-30 01:12:10.870 [main] Log4jDemo - This is a warning message
+[FATAL] 2020-06-30 01:12:10.871 [main] Log4jDemo - This is a fatal message
+[TRACE] 2020-06-30 01:13:30.912 [main] Log4jDemo - This is trace message
+[INFO ] 2020-06-30 01:13:30.917 [main] Log4jDemo - This is information message
+[ERROR] 2020-06-30 01:13:30.917 [main] Log4jDemo - This is an error message
+[WARN ] 2020-06-30 01:13:30.918 [main] Log4jDemo - This is a warning message
+[FATAL] 2020-06-30 01:13:30.918 [main] Log4jDemo - This is a fatal message
+[INFO ] 2020-06-30 12:51:07.004 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 12:53:49.055 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 12:55:35.661 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:12:06.382 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:13:14.270 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:15:15.022 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:18:31.237 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:21:48.621 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:25:51.042 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:34:50.953 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:37:12.111 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:38:38.391 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:39:41.236 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:40:12.274 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:44:52.256 [main] Log4jDemo - Browser started
+[INFO ] 2020-06-30 14:53:44.046 [main] Log4jDemo - Browser started
